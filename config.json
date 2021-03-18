@@ -1,0 +1,220 @@
+{
+  "course_colors": {
+    "CS 101": "#8dd3c7",
+    "CS 115": "#ffffb3",
+    "CS 215": "#bebada",
+    "CS 242": "#fb8072",
+    "CS 210": "#80b1d3",
+    "CS 252": "#fdb462",
+    "CS 315": "#b3de69",
+    "CS 351": "#fccde5",
+    "CS 355": "#d9d9d9",
+    "CS 370": "#bc80bd",
+    "CS 415": "#ccebc5",
+    "CS 454": "#ffed6f",
+    "CS 460": "#66c2a5",
+    "CS 450": "#fc8d62",
+    "CS 470": "#8da0cb",
+    "CS 385": "#e78ac3",
+    "CS 115W": "#a6d854",
+    "CS 480": "#ffd92f",
+    "CS XXX": "#e5c494",
+    "CS YYY": "#b3b3b3"
+  },
+  "tabs": [
+    {
+      "name":  "CS 101",
+      "title" : "CS 101 -- Spring 2020 Schedule",
+      "entries": ["CS 101"]
+    },
+    {
+      "name": "Majors 1",
+      "title" : "CS Majors 1 -- Spring 2020 Schedule",
+      "entries": ["rest"]
+    },
+    {
+      "name": "LD Courses",
+      "title" : "CS Lower Division Courses -- Spring 2020 Schedule",
+      "entries": ["CS 115", "CS 115W", "CS 210", "CS 215", "CS 242", "CS 252"]
+    },
+    {
+      "name": "UD Courses",
+      "title" : "CS Upper Division Courses -- Spring 2020 Schedule",
+      "entries": ["CS 315", "CS 355", "CS 370", "CS 351", "CS 415", "CS 454", "CS 450", "CS 460", "CS 470"]
+    },
+    {
+      "name": "Majors 2",
+      "title" : "CS Majors 2 -- Spring 2020 Schedule",
+      "entries": ["all except", "CS 101"]
+    },
+    {
+      "name": "All",
+      "title" : "CS Department -- Spring 2020 Schedule",
+      "entries": ["all"]
+    }
+  ],
+
+  "instructors": {
+    "Ali Kooshesh": {
+      "color": "#8dd3c7",
+      "name": "Kooshesh"
+    },
+    "Suzanne Rivoire": {
+      "color": "#ffffb3",
+      "name": "Rivoire"
+    },
+
+    "Balasubramanian Ravikumar": {
+      "color": "#bebada",
+      "name": "Ravikumar"
+    },
+    "Glenn Carter": {
+      "color": "#fb8072",
+      "name": "Carter"
+    },
+    "Anamary Leal": {
+      "color": "#80b1d3",
+      "name": "Leal"
+    },
+    "George Ledin Jr": {
+      "color": "#fdb462",
+      "name": "Ledin"
+    },
+    "Shubbhi Taneja": {
+      "color": "#b3de69",
+      "name": "Taneja"
+    },
+    "Mark Gondree": {
+      "color": "#fccde5",
+      "name": "Gondree (or any name)"
+    },
+    "Jeffrey Fisher": {
+      "color": "#d9d9d9",
+      "name": "Fisher"
+    },
+    "Gurman Gill": {
+      "color": "#bc80bd",
+      "name": "Gill"
+    },
+    "Kurt Granborg": {
+      "color": "#ccebc5",
+      "name": "Granborg"
+    },
+    "Christopher Wineland": {
+      "color": "#ffed6f",
+      "name": "Wineland"
+    },
+    "Marshall Jankovsky": {
+      "color": "#66c2a5",
+      "name": "Jankovsky"
+    },
+    "Noah Melcon": {
+      "color": "#fc8d62",
+      "name": "Melcon"
+    },
+    "Jorge Cabrera Mora": {
+      "color": "#8da0cb",
+      "name": "Cabrera"
+    },
+    "Marcia Watts": {
+      "color": "#e78ac3",
+      "name": "Watts"
+    }
+  },
+
+  "labs": [
+    "DARW0024",
+    "DARW0025",
+    "DARW0028",
+    "STEV1034"
+  ],
+
+  "reflist_attributes": [
+    "Term",
+    "Subject",
+    "Catalog",
+    "Section",
+    "Class Nbr",
+    "Comb Sect",
+    "CS Number",
+    "Component",
+    "Min Units",
+    "Max Units",
+    "Consent",
+    "Auto Enrol",
+    "Auto Enr 2",
+    "Designation",
+    "Descr",
+    "Pat",
+    "START TIME",
+    "END TIME",
+    "Req Rm Cap",
+    "Cap Enrl",
+    "Tot Enrl",
+    "Avail Seats",
+    "Wait Tot",
+    "Facil ID",
+    "Capacity",
+    "Instructor ID",
+    "Last",
+    "First Name",
+    "Empl Rcd#",
+    "Work Load",
+    "Auto Enrol",
+    "Acad Group"
+  ],
+
+  "reflist_db_attributes": [
+    "term",
+    "subject",
+    "catalog",
+    "section",
+    "class_number",
+    "combined_section",
+    "cs_number",
+    "component",
+    "min_units",
+    "max_units",
+    "consent",
+    "auto_enrol1",
+    "auto_enrol2",
+    "ge_designation",
+    "description",
+    "meeting_pattern",
+    "start_time",
+    "end_time",
+    "req_room_capacity",
+    "enrol_capacity",
+    "total_enrolled",
+    "available_seats",
+    "waitlist_size",
+    "facility_name",
+    "room_capacity",
+    "instructor_id",
+    "instructor_lName",
+    "instructor_fName",
+    "instructor_emp_rcd_nbr",
+    "work_load",
+    "auto_enrol",
+    "acad_group"
+  ],
+
+  "editable_attributes": [
+    "Section",
+    "Comb Sect",
+    "Min Units",
+    "Max Units",
+    "Auto Enrol",
+    "Auto Enr 2",
+    "Pat",
+    "START TIME",
+    "END TIME",
+    "Req Rm Cap",
+    "Cap Enrl",
+    "Facil ID",
+    "Instructor ID",
+    "Last",
+    "First Name",
+    "Work Load"
+  ]
+}

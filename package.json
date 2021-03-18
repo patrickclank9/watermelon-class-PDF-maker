@@ -1,0 +1,21 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watermelon.js",
+  "dependencies": {
+    "make-dir": "^3.0.0",
+    "moment": "^2.24.0",
+    "moment-duration": "0.0.6",
+    "moment-range": "^4.0.2",
+    "moment-round": "^1.0.1",
+    "pdfmake": "^0.1.62"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node watermelon.js"
+  },
+  "author": "Patrick Hernandez",
+  "license": "ISC"
+}
